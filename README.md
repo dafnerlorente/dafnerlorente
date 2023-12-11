@@ -2,7 +2,7 @@
 
   <img align="right" alt="Dafner-gif" height="130" width="130" src="https://i.picasion.com/pic92/3373ed9aef0117ef1e4e896cbb590b3c.gif">
 
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas
 - ❤️ Apaixonada por Música, Filmes de suspense e Séries de reality shows
 - 🐶 Mãe da Mel e da Luna
 - 💬 Contate-me no e-mail: dafnerlorente@hotmail.com
